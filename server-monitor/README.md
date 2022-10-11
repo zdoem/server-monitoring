@@ -5,7 +5,7 @@
     docker-compose
     git
 
-### คู่มือแบบที่ 1
+### command
 
     git https://github.com/zdoem/server-monitoring/tree/master
     cd server-monitor
